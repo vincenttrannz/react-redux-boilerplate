@@ -1,6 +1,6 @@
-# A starter webpack project for React
+# A starter webpack project for React, Redux with Dotenv
 
-This is a starter project that uses webpack to transpile and bundle ES6 React code. To use, consider these steps:
+This is a starter project that uses webpack to transpile and bundle ES6 React code, includes all the folders that can be used later on for reducers and actions. To use, consider these steps:
 
 * Fork this repo
 * Rename your repo according to the app you're building
