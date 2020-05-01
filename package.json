@@ -9,7 +9,6 @@
     "watch:client": "webpack --watch",
     "watch:server": "nodemon --watch server",
     "start": "node server",
-    "postinstall": "webpack",
     "test": "jest --noStackTrace --watchAll",
     "build": "webpack"
   },
